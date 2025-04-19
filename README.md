@@ -26,3 +26,8 @@ packages and their dependencies:
 * `wget`
 * `zlib`
 * `zstd`
+
+
+extra utils:
+
+* `shellcheck` - https://github.com/koalaman/shellcheck
