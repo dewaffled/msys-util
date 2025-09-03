@@ -12,11 +12,13 @@ This repository contains a few extra utilities unpacked from [MSYS2 repository](
 
 packages and their dependencies:
 
-* `gnu-netcat`
+* `openbsd-netcat`
+* `libbsd`
 * `libgpgme`
 * `libiconv`
 * `libintl`
 * `liblz4`
+* `libmd`
 * `libmetalink`
 * `libpcre2_8`
 * `libxxhash`
