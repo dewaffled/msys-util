@@ -1,1 +1,15 @@
 mklink "msys-2.0.dll" "C:\Program Files\Git\usr\bin\msys-2.0.dll"
+
+:: wget requirements
+mklink "msys-gnutls-30.dll" "C:\Program Files\Git\usr\bin\msys-gnutls-30.dll"
+mklink "msys-idn2-0.dll" "C:\Program Files\Git\usr\bin\msys-idn2-0.dll"
+mklink "msys-nettle-8.dll" "C:\Program Files\Git\usr\bin\msys-nettle-8.dll"
+mklink "msys-psl-5.dll" "C:\Program Files\Git\usr\bin\msys-psl-5.dll"
+mklink "msys-uuid-1.dll" "C:\Program Files\Git\usr\bin\msys-uuid-1.dll"
+mklink "msys-unistring-5.dll" "C:\Program Files\Git\usr\bin\msys-unistring-5.dll"
+mklink "msys-gmp-10.dll" "C:\Program Files\Git\usr\bin\msys-gmp-10.dll"
+mklink "msys-gcc_s-seh-1.dll" "C:\Program Files\Git\usr\bin\msys-gcc_s-seh-1.dll"
+mklink "msys-hogweed-6.dll" "C:\Program Files\Git\usr\bin\msys-hogweed-6.dll"
+mklink "msys-p11-kit-0.dll" "C:\Program Files\Git\usr\bin\msys-p11-kit-0.dll"
+mklink "msys-tasn1-6.dll" "C:\Program Files\Git\usr\bin\msys-tasn1-6.dll"
+mklink "msys-ffi-8.dll" "C:\Program Files\Git\usr\bin\msys-ffi-8.dll"
