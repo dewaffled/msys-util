@@ -9,6 +9,7 @@ This repository contains a few extra utilities unpacked from [MSYS2 repository](
 * `rsync`
 * `nc`
 * `make`
+* `wget`
 
 packages and their dependencies:
 
@@ -24,6 +25,7 @@ packages and their dependencies:
 * `libxxhash`
 * `libzstd`
 * `make`
+* `popt`
 * `rsync`
 * `wget`
 * `zlib`
