@@ -32,4 +32,5 @@ packages and their dependencies:
 
 extra utils:
 
+* `patchelf` - https://github.com/NixOS/patchelf
 * `shellcheck` - https://github.com/koalaman/shellcheck
